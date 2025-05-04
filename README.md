@@ -16,7 +16,7 @@ This repository documents my learning path as I transition from Software Enginee
         - **USA_Housing.csv**: Dataset for performing linear regression tasks on housing prices.
     - **logistic_regression/**: Logistic Regression notebooks for classification tasks.
         - **basic_lr1.ipynb**: Introduction to logistic regression.
-        - **train.csv**: Example dataset for training logistic regression models.
+        - **train.csv**: titanic dataset for training logistic regression models.
 
 ## How to Use
 
