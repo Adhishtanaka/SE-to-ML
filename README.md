@@ -11,11 +11,11 @@ This repository documents my learning path as I transition from Software Enginee
 - **output.csv**: Example dataset for experimenting with the basic ML algorithms.
 - **ml/**: Contains ML-related projects.
     - **linear_regression/**: Basic Linear Regression notebooks and dataset.
-        - **basic_lr1.ipynb**: Simple linear regression implementation.
-        - **basic_lr2.ipynb**: Another linear regression notebook with a different approach.
+        - **basic_lr1.ipynb**: Simple house prices predict linear regression implementation.
+        - **basic_lr2.ipynb**: boston house prices predict using linear regression notebook with a RFE.
         - **USA_Housing.csv**: Dataset for performing linear regression tasks on housing prices.
     - **logistic_regression/**: Logistic Regression notebooks for classification tasks.
-        - **basic_lr1.ipynb**: Introduction to logistic regression.
+        - **basic_lr1.ipynb**: titanic survivor prediction using logistic regression.
         - **train.csv**: titanic dataset for training logistic regression models.
 
 ## How to Use
