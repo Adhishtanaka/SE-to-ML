@@ -1,4 +1,4 @@
-# Machine Learning Made Simple
+# Basic Machine Learning 
 
 Machine learning (ML) helps computers learn from data and improve their performance on specific tasks without being explicitly programmed for each case. It's akin to how humans learn from experience – the more data (experience) a system is exposed to, the better it can become at making predictions, classifications, or decisions. This guide will walk you through foundational concepts to advanced strategies, including key neural network architectures and application areas.
 
