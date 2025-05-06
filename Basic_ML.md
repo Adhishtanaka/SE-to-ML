@@ -195,23 +195,7 @@ Analyzing sequences of observations ordered chronologically (e.g., stock prices,
     * **Seasonality and Trends:** Model or remove these components.
     * **Time-Aware Validation:** Crucial to prevent future data leakage. Use "forward chaining" or time series cross-validation (train on past, test on future).
 
-## 5. Matrices in Machine Learning: The Mathematical Backbone
-Matrices (grids of numbers) are fundamental for ML calculations, especially in neural networks.
-
-* **Why Matrices Matter:**
-    * Efficiently store data (rows=examples, columns=features).
-    * Enable parallel computations (especially with GPUs for NNs).
-    * Many ML operations are matrix transformations.
-* **Key Matrix Operations:**
-    * **Matrix Multiplication:** Core of neural network layers, combining information.
-    * **Transpose:** Flips a matrix (rows become columns).
-    * **Inverse:** Analogous to division for matrices.
-    * **Decomposition (e.g., SVD, PCA):** For dimensionality reduction, solving linear systems.
-* **Significance for Neural Networks:**
-    * Input data, weights, and gradients are represented as matrices/tensors.
-    * The forward pass involves series of matrix multiplications and activations.
-
-## 6. Model Evaluation: Knowing If Your Model Is Any Good
+## 5. Model Evaluation: Knowing If Your Model Is Any Good
 Assessing how well a model performs on unseen data is crucial.
 
 ### a. **Accuracy and Its Limitations**
@@ -243,7 +227,7 @@ Accuracy (percentage of correct predictions) can be misleading, especially with 
 
 **Expert insight:** Always choose metrics that align with the specific business goals and reflect the costs of different types of errors. For fraud detection, false negatives (missing fraud) are often costlier than false positives.
 
-## 7. Advanced Machine Learning Concepts
+## 6. Advanced Machine Learning Concepts
 
 ### a. **Model Optimization Strategies (Supervised Learning)**
 * **Algorithm Selection:**
