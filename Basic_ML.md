@@ -44,8 +44,6 @@ A typical ML project follows these steps:
 9.  **Tune Parameters (Hyperparameter Tuning):** Adjust the model's settings (hyperparameters) to optimize its performance.
 10. **Deploy and Monitor:** Put the trained model into a production environment and continuously monitor its performance, retraining as needed.
 
-*Remember: Machine learning is an iterative process. You'll often cycle back through these steps.*
-
 ## 2. Types of Machine Learning
 
 ### a. Supervised Learning: Learning with a Teacher
