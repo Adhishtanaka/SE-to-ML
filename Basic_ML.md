@@ -7,8 +7,8 @@
 4. [Data Preparation Techniques](#4-data-preparation-techniques)
 5. [Model Evaluation Metrics](#5-model-evaluation-metrics)
 6. [Core ML Architectures Overview](#6-core-ml-architectures-overview)
-7. [Advanced Machine Learning Concepts](#9-advanced-machine-learning-concepts)
-8. [Visualization Guide](#10-visualization-guide)
+7. [Advanced Machine Learning Concepts](#7-advanced-machine-learning-concepts)
+8. [Visualization Guide](#8-visualization-guide)
 
 ## 1. What is Machine Learning?
 
