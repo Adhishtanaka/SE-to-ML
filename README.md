@@ -1,3 +1,6 @@
+# 🚧 Repo Under Construction 🚧
+
+Hi there! This repo is currently **under construction**. Once my exam is over, I will start working on this repo.
 # SE to ML Journey
 
 This repository documents my learning path as I transition from Software Engineering (SE) to Machine Learning (ML). Here, I will showcase different projects, Jupyter notebooks, and datasets I use to explore the fundamentals of machine learning and data science. The goal is to build a solid foundation in ML concepts while leveraging my background in SE.
